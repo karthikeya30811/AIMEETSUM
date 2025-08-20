@@ -119,11 +119,3 @@ Action: Dev team to release new feature by August 15.
 • Dev team → release feature by Aug 15
 ```
 
----
-
-## ⚠️ Known Issues
-
-* **429 Quota Errors** → Free Gemini tier limit (15 requests/min). Enable billing for higher quota.
-* **PDF parsing** → Some scanned PDFs may extract poorly (use OCR before upload).
-
----
