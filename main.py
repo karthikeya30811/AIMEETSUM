@@ -13,7 +13,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
 
-st.title("🤖 AI-Powered Meeting Notes Summarizer")
+st.title("🤖 AI- Kart27 Notes Summarizer")
 
 uploaded_file = st.file_uploader("Upload transcript (txt/pdf)", type=["txt", "pdf"])
 
