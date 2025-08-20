@@ -1,6 +1,3 @@
-Perfect 👍 You’ll need a **README.md** so your GitHub repo looks neat and explains how to run/deploy the project. Here’s a complete version tailored for your **AI-Powered Meeting Notes Summarizer** 👇
-
----
 
 # 🤖 AI-Powered Meeting Notes Summarizer
 
@@ -130,5 +127,3 @@ Action: Dev team to release new feature by August 15.
 * **PDF parsing** → Some scanned PDFs may extract poorly (use OCR before upload).
 
 ---
-
-👉 Do you also want me to make a **screenshot + badges (e.g., Streamlit | Python | Gemini)** for your README so it looks professional on GitHub?
